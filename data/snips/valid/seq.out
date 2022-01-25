@@ -1,0 +1,101 @@
+entity
+O O O O O B-Charge O
+B-Charge O
+B-GC I-GC O
+O B-GC I-GC O O O O O
+B-Deposit B-Amount B-Toman O B-LName
+B-Deposit I-Deposit I-Deposit O O O O O B-Name
+O B-Amount B-Deposit O B-ID I-ID
+B-Receipt I-Receipt B-Mobile O B-Pay
+B-Charge O
+O O O B-Charge O O
+B-GC I-GC O O
+B-Receipt B-Landline O O B-Pay I-Pay
+O O B-Name B-Deposit
+B-Receipt B-Water O O B-Pay 
+O O O O B-Receipt O O B-Pay O
+O B-Cart I-Cart B-Deposit I-Deposit
+O O B-GC I-GC
+O O B-Receipt O O O B-Pay O O O
+B-Pay O B-Receipt O O
+O B-Receipt O B-Pay O O
+B-Charge B-Amount I-Amount O B-PN O
+O O O O O B-Number I-Number B-Charge O
+O O O O B-Charge O
+B-Receipt B-Gas O 
+B-Receipt B-Gas B-Inquire O
+B-Charge B-Amount I-Amount 
+O B-PN O B-Charge O
+O O B-Charge B-Number I-Number O O
+O B-Balance I-Balance I-Balance O
+B-Charge B-Number I-Number
+O B-GC I-GC O O O O O O O O
+B-Deposit I-Deposit I-Deposit
+O O B-Charge O
+B-Balance I-Balance I-Balance I-Balance I-Balance
+O B-Amount I-Amount B-Toman B-Deposit O
+O B-GC I-GC B-Amount I-Amount O O O O O O O
+O B-GC I-GC O B-Amount I-Amount O
+B-Amount B-Toman B-Deposit O  B-Name
+B-Deposit I-Deposit I-Deposit O O
+B-Receipt B-Pay O
+O B-Amount I-Amount B-Deposit O B-Cart I-Cart B-Name
+O O B-Charge O 
+B-Money B-Cart O O B-Cart I-Cart B-Deposit
+B-GC I-GC O O
+O B-Deposit I-Deposit I-Deposit O
+O B-GC I-GC B-Amount I-Amount O O O
+B-GC I-GC O O B-Amount I-Amount O O O
+B-Charge B-Number I-Number 
+O O B-Charge O
+O B-Charge O O
+B-GC I-GC O O O O
+O B-Amount I-Amount B-Deposit O B-Cart I-Cart
+O O B-Name B-Deposit I-Deposit
+B-Amount I-Amount O B-Cart B-Name B-Deposit O
+B-GC I-GC O O O B-Amount I-Amount I-Amount
+O B-Amount B-Deposit O O B-Name
+B-Charge B-Amount I-Amount I-Amount B-HamraheAval O O
+O O B-Name B-Deposit O
+O B-GC I-GC O
+B-Charge B-Number I-Number O
+O O O O B-Deposit O
+B-GC I-GC O
+O O B-GC I-GC O
+O B-Charge B-Number I-Number
+B-Charge O
+B-Receipt O B-Pay O
+O O O B-Charge O
+O O B-Receipt  O  B-Pay O O O
+O B-Charge B-Number I-Number O
+O B-Receipt B-Pay O
+B-Receipt O B-Pay O
+B-GC I-GC O O O O
+O O O B-Charge O
+B-Receipt B-Pay O O
+O O B-Receipt O B-Pay O
+O O O B-Charge O
+B-Receipt
+B-Receipt B-Mobile O O B-Inquire O
+O O B-Name B-Deposit O O
+B-Receipt B-Water B-Inquire 
+B-Charge B-Amount I-Amount B-Irancell O
+B-Deposit I-Deposit I-Deposit O
+O B-GC I-GC B-Amount I-Amount O O O O O O O O
+B-Amount B-Toman B-Deposit I-Deposit
+O B-Cart O O B-GC O
+B-Deposit I-Deposit I-Deposit
+O B-Amount B-Deposit O B-Cart B-Name
+O O O O B-Charge O
+O O B-Receipt O B-Pay O
+O B-Receipt O B-Pay O O
+B-Charge B-Number I-Number
+B-Receipt B-Mobile O B-Pay
+B-Charge B-Amount I-Amount B-Rightel O
+B-Amount I-Amount B-Toman B-Deposit O B-Cart B-Name
+O O O O O O O O O O O O B-Deposit O
+O O B-Receipt B-Pay O O O
+O B-GC I-GC B-Amount I-Amount O O O O O O O O O O O O O O
+B-Cart B-Amount I-Amount O O B-GC O
+B-Deposit I-Deposit I-Deposit O B-Cart B-Name O B-Name
+B-Balance I-Balance I-Balance

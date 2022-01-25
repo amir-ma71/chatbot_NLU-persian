@@ -1,0 +1,1 @@
+{"cache_dir": "D:\\project\\Python\\chatbot2\\dialog-nlu-master\\scripts\\transformers_cache_dir", "pretrained_model_name_or_path": "bert-base-uncased", "from_pt": false, "num_bert_fine_tune_layers": 10, "intent_loss_weight": 1.0, "slots_loss_weight": 3.0, "nlu_class": "TransformerNLU", "max_length": 64, "slots_num": 53, "intents_num": 6, "class": "JointTransBertModel"}
